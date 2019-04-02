@@ -4,5 +4,6 @@ import java.io.Serializable;
 
 public class Student implements Serializable {
   private Integer stuId;
+  private String  stuAge;
   private String stuName;
 }
